@@ -1,6 +1,7 @@
 # odin-admin-dashboard
 
 profile images create using:
+https://8bitpix.com/
 
 8bitpix is an online tool to configure, draw, save and publish pixel art avatars over social media.
 Recreated from @tuitpix by @sergebruni.

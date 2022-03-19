@@ -8,3 +8,7 @@ Recreated from @tuitpix by @sergebruni.
 Advised by @sadasant
 
 Hosted in DigitalOcean by @rogergonzalez21.
+
+SVG images from:
+https://materialdesignicons.com/
+
